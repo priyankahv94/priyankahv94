@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyankahv94
-- 👀 I’m interested in PowerBI, Python, SQL
-- 🌱 I’m currently learning PowerBI, Python
+- 👀 I’m interested in PowerBI,GA4, GTM, SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python, SQL
 - 📫 How to reach me priyankahv94@gmail.com
 
